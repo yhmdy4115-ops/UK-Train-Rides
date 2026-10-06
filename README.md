@@ -12,7 +12,7 @@ Power BI data analysis project analyzing UK train rides, forecasting next month'
 6. Habiba Eazzat Abdulrahman Mohammed 
 
 # Instructor
-ENG/Fatima Ehab Farouk
+ENG/Fatimah Ehab Farouk
 
 # Google Driver
 [Google Drive Link](https://drive.google.com/drive/folders/1qoNuD3rr_7EDMKvdnFQXDez4rmFSRo3l)
